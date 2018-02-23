@@ -1,4 +1,7 @@
 some text
+<<<<<<< HEAD
 
 
 now ive added some text
+=======
+>>>>>>> a0c32c45b7c129fc411922c3190b77dab353f3d9
